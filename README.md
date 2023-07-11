@@ -1,5 +1,7 @@
 # Webscraping ETL
 
+ url = https://www.seton.com.br
+
  1 - Faz uma leitura de um arquivo de origem para acessar informações como: id e url;
 
  2 - Acessa as urls disponibilizadas no arquivo de origem;
@@ -11,7 +13,7 @@
  4 - Reorganiza as colunas e Renomeia as colunas;
 
  5 - Passa por um processo de ETL;
- 
+
  6 - Gera uma nova saída (carga).
 
  
