@@ -1,0 +1,236 @@
+2023-07-07 09:24:29,983 [INFO] ====== WebDriver manager ======
+2023-07-07 09:24:30,620 [INFO] Get LATEST chromedriver version for google-chrome 114.0.5735
+2023-07-07 09:24:31,295 [INFO] Driver [C:\Users\hdsou\.wdm\drivers\chromedriver\win32\114.0.5735\chromedriver.exe] found in cache
+2023-07-07 09:24:34,687 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:24:38,744 [INFO] Requesting amount: 17
+2023-07-07 09:24:44,002 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:24:52,859 [ERROR] Item out of stock.
+2023-07-07 09:24:52,864 [ERROR] Item out of stock.
+2023-07-07 09:24:52,865 [INFO] Taking screenshot
+2023-07-07 09:24:53,605 [INFO] Price: None
+2023-07-07 09:24:53,605 [INFO] Shipment: None
+2023-07-07 09:24:59,829 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:25:05,787 [INFO] Requesting amount: 17
+2023-07-07 09:25:13,393 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:25:19,703 [ERROR] Item out of stock.
+2023-07-07 09:25:19,708 [ERROR] Item out of stock.
+2023-07-07 09:25:19,714 [INFO] Taking screenshot
+2023-07-07 09:25:20,461 [INFO] Price: None
+2023-07-07 09:25:20,461 [INFO] Shipment: None
+2023-07-07 09:25:26,552 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:25:30,791 [INFO] Requesting amount: 17
+2023-07-07 09:25:38,863 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:25:45,712 [ERROR] Item out of stock.
+2023-07-07 09:25:45,717 [ERROR] Item out of stock.
+2023-07-07 09:25:45,717 [INFO] Taking screenshot
+2023-07-07 09:25:46,455 [INFO] Price: None
+2023-07-07 09:25:46,455 [INFO] Shipment: None
+2023-07-07 09:25:52,620 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:25:57,058 [INFO] Requesting amount: 17
+2023-07-07 09:26:04,247 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:26:10,730 [ERROR] Item out of stock.
+2023-07-07 09:26:10,734 [ERROR] Item out of stock.
+2023-07-07 09:26:10,735 [INFO] Taking screenshot
+2023-07-07 09:26:11,477 [INFO] Price: None
+2023-07-07 09:26:11,477 [INFO] Shipment: None
+2023-07-07 09:26:16,796 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:26:20,929 [INFO] Requesting amount: 17
+2023-07-07 09:26:27,870 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:26:34,121 [ERROR] Item out of stock.
+2023-07-07 09:26:34,126 [ERROR] Item out of stock.
+2023-07-07 09:26:34,126 [INFO] Taking screenshot
+2023-07-07 09:26:34,870 [INFO] Price: None
+2023-07-07 09:26:34,870 [INFO] Shipment: None
+2023-07-07 09:26:41,259 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:26:46,746 [INFO] Requesting amount: 17
+2023-07-07 09:26:55,753 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:27:04,650 [ERROR] Item out of stock.
+2023-07-07 09:27:04,655 [ERROR] Item out of stock.
+2023-07-07 09:27:04,655 [INFO] Taking screenshot
+2023-07-07 09:27:05,401 [INFO] Price: None
+2023-07-07 09:27:05,401 [INFO] Shipment: None
+2023-07-07 09:27:11,642 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:27:15,966 [INFO] Requesting amount: 17
+2023-07-07 09:27:23,051 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:27:29,665 [ERROR] Item out of stock.
+2023-07-07 09:27:29,670 [ERROR] Item out of stock.
+2023-07-07 09:27:29,670 [INFO] Taking screenshot
+2023-07-07 09:27:30,416 [INFO] Price: None
+2023-07-07 09:27:30,416 [INFO] Shipment: None
+2023-07-07 09:27:35,703 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:27:40,204 [INFO] Requesting amount: 17
+2023-07-07 09:27:48,229 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:27:54,975 [ERROR] Item out of stock.
+2023-07-07 09:27:54,980 [ERROR] Item out of stock.
+2023-07-07 09:27:54,980 [INFO] Taking screenshot
+2023-07-07 09:27:55,718 [INFO] Price: None
+2023-07-07 09:27:55,718 [INFO] Shipment: None
+2023-07-07 09:28:01,186 [INFO] Requesting URL: https://www.seton.com.br/cavalete-em-a-3439.html
+2023-07-07 09:28:05,127 [INFO] Requesting amount: 1
+2023-07-07 09:28:11,084 [INFO] Taking screenshot
+2023-07-07 09:28:11,817 [INFO] Price: 353,34
+2023-07-07 09:28:11,817 [INFO] Shipment: 62,05
+2023-07-07 09:28:17,885 [INFO] Requesting URL: https://www.seton.com.br/balizador-refletivo.html
+2023-07-07 09:28:21,688 [INFO] Requesting amount: 1
+2023-07-07 09:28:28,333 [INFO] Taking screenshot
+2023-07-07 09:28:29,066 [INFO] Price: 117,94
+2023-07-07 09:28:29,066 [INFO] Shipment: 38,52
+2023-07-07 09:28:34,626 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:28:39,035 [INFO] Requesting amount: 17
+2023-07-07 09:28:46,902 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:28:54,740 [ERROR] Item out of stock.
+2023-07-07 09:28:54,746 [ERROR] Item out of stock.
+2023-07-07 09:28:54,746 [INFO] Taking screenshot
+2023-07-07 09:28:55,481 [INFO] Price: None
+2023-07-07 09:28:55,481 [INFO] Shipment: None
+2023-07-07 09:29:02,282 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:29:08,472 [INFO] Requesting amount: 17
+2023-07-07 09:29:15,607 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:29:22,576 [ERROR] Item out of stock.
+2023-07-07 09:29:22,581 [ERROR] Item out of stock.
+2023-07-07 09:29:22,582 [INFO] Taking screenshot
+2023-07-07 09:29:23,328 [INFO] Price: None
+2023-07-07 09:29:23,328 [INFO] Shipment: None
+2023-07-07 09:29:32,042 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:29:37,145 [INFO] Requesting amount: 17
+2023-07-07 09:29:44,079 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:29:50,737 [ERROR] Item out of stock.
+2023-07-07 09:29:50,742 [ERROR] Item out of stock.
+2023-07-07 09:29:50,742 [INFO] Taking screenshot
+2023-07-07 09:29:51,478 [INFO] Price: None
+2023-07-07 09:29:51,478 [INFO] Shipment: None
+2023-07-07 09:30:00,084 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:30:04,519 [INFO] Requesting amount: 17
+2023-07-07 09:30:13,343 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:30:20,126 [ERROR] Item out of stock.
+2023-07-07 09:30:20,131 [ERROR] Item out of stock.
+2023-07-07 09:30:20,131 [INFO] Taking screenshot
+2023-07-07 09:30:20,877 [INFO] Price: None
+2023-07-07 09:30:20,877 [INFO] Shipment: None
+2023-07-07 09:30:23,952 [INFO] Taking screenshot
+2023-07-07 09:30:24,661 [INFO] Price: None
+2023-07-07 09:30:24,661 [INFO] Shipment: None
+2023-07-07 09:30:32,567 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:30:38,307 [INFO] Requesting amount: 17
+2023-07-07 09:30:45,360 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:30:51,896 [ERROR] Item out of stock.
+2023-07-07 09:30:51,901 [ERROR] Item out of stock.
+2023-07-07 09:30:51,901 [INFO] Taking screenshot
+2023-07-07 09:30:52,658 [INFO] Price: None
+2023-07-07 09:30:52,658 [INFO] Shipment: None
+2023-07-07 09:30:58,084 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:31:02,377 [INFO] Requesting amount: 17
+2023-07-07 09:31:09,195 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:31:15,558 [ERROR] Item out of stock.
+2023-07-07 09:31:15,563 [ERROR] Item out of stock.
+2023-07-07 09:31:15,563 [INFO] Taking screenshot
+2023-07-07 09:31:16,309 [INFO] Price: None
+2023-07-07 09:31:16,309 [INFO] Shipment: None
+2023-07-07 09:31:21,683 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:31:26,099 [INFO] Requesting amount: 17
+2023-07-07 09:31:33,736 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:31:39,981 [ERROR] Item out of stock.
+2023-07-07 09:31:39,986 [ERROR] Item out of stock.
+2023-07-07 09:31:39,986 [INFO] Taking screenshot
+2023-07-07 09:31:40,724 [INFO] Price: None
+2023-07-07 09:31:40,724 [INFO] Shipment: None
+2023-07-07 09:31:46,447 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:31:50,687 [INFO] Requesting amount: 17
+2023-07-07 09:31:58,100 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:32:04,529 [ERROR] Item out of stock.
+2023-07-07 09:32:04,534 [ERROR] Item out of stock.
+2023-07-07 09:32:04,534 [INFO] Taking screenshot
+2023-07-07 09:32:05,273 [INFO] Price: None
+2023-07-07 09:32:05,273 [INFO] Shipment: None
+2023-07-07 09:32:10,674 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:32:14,893 [INFO] Requesting amount: 17
+2023-07-07 09:32:22,161 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:32:28,779 [ERROR] Item out of stock.
+2023-07-07 09:32:28,784 [ERROR] Item out of stock.
+2023-07-07 09:32:28,785 [INFO] Taking screenshot
+2023-07-07 09:32:29,531 [INFO] Price: None
+2023-07-07 09:32:29,531 [INFO] Shipment: None
+2023-07-07 09:32:35,503 [INFO] Requesting URL: https://www.seton.com.br/balizador-refletivo.html
+2023-07-07 09:32:40,811 [INFO] Requesting amount: 1
+2023-07-07 09:32:47,802 [INFO] Taking screenshot
+2023-07-07 09:32:48,537 [INFO] Price: 235,88
+2023-07-07 09:32:48,537 [INFO] Shipment: 49,18
+2023-07-07 09:32:54,624 [INFO] Requesting URL: https://www.seton.com.br/balizador-refletivo.html
+2023-07-07 09:32:59,961 [INFO] Requesting amount: 1
+2023-07-07 09:33:06,778 [INFO] Taking screenshot
+2023-07-07 09:33:07,519 [INFO] Price: 353,82
+2023-07-07 09:33:07,519 [INFO] Shipment: 58,25
+2023-07-07 09:33:13,683 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:33:18,667 [INFO] Requesting amount: 17
+2023-07-07 09:33:25,705 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:33:32,090 [ERROR] Item out of stock.
+2023-07-07 09:33:32,095 [ERROR] Item out of stock.
+2023-07-07 09:33:32,095 [INFO] Taking screenshot
+2023-07-07 09:33:32,836 [INFO] Price: None
+2023-07-07 09:33:32,836 [INFO] Shipment: None
+2023-07-07 09:33:38,980 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:33:43,328 [INFO] Requesting amount: 17
+2023-07-07 09:33:52,993 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:33:59,143 [ERROR] Item out of stock.
+2023-07-07 09:33:59,148 [ERROR] Item out of stock.
+2023-07-07 09:33:59,149 [INFO] Taking screenshot
+2023-07-07 09:33:59,884 [INFO] Price: None
+2023-07-07 09:33:59,884 [INFO] Shipment: None
+2023-07-07 09:34:05,221 [INFO] Requesting URL: https://www.seton.com.br/balizador-refletivo.html
+2023-07-07 09:34:10,280 [INFO] Requesting amount: 1
+2023-07-07 09:34:17,834 [INFO] Taking screenshot
+2023-07-07 09:34:18,566 [INFO] Price: 471,76
+2023-07-07 09:34:18,566 [INFO] Shipment: 70,06
+2023-07-07 09:34:24,778 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:34:29,041 [INFO] Requesting amount: 17
+2023-07-07 09:34:36,506 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:34:43,148 [ERROR] Item out of stock.
+2023-07-07 09:34:43,153 [ERROR] Item out of stock.
+2023-07-07 09:34:43,154 [INFO] Taking screenshot
+2023-07-07 09:34:43,898 [INFO] Price: None
+2023-07-07 09:34:43,898 [INFO] Shipment: None
+2023-07-07 09:34:49,306 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:34:54,273 [INFO] Requesting amount: 17
+2023-07-07 09:35:01,175 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:35:08,087 [ERROR] Item out of stock.
+2023-07-07 09:35:08,092 [ERROR] Item out of stock.
+2023-07-07 09:35:08,092 [INFO] Taking screenshot
+2023-07-07 09:35:08,832 [INFO] Price: None
+2023-07-07 09:35:08,832 [INFO] Shipment: None
+2023-07-07 09:35:15,786 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:35:20,002 [INFO] Requesting amount: 17
+2023-07-07 09:35:28,483 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:35:35,171 [ERROR] Item out of stock.
+2023-07-07 09:35:35,177 [ERROR] Item out of stock.
+2023-07-07 09:35:35,177 [INFO] Taking screenshot
+2023-07-07 09:35:35,915 [INFO] Price: None
+2023-07-07 09:35:35,915 [INFO] Shipment: None
+2023-07-07 09:35:41,535 [INFO] Requesting URL: https://www.seton.com.br/balizador-refletivo.html
+2023-07-07 09:35:46,806 [INFO] Requesting amount: 1
+2023-07-07 09:35:53,431 [INFO] Taking screenshot
+2023-07-07 09:35:54,165 [INFO] Price: 589,70
+2023-07-07 09:35:54,165 [INFO] Shipment: 75,96
+2023-07-07 09:36:00,294 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:36:04,532 [INFO] Requesting amount: 17
+2023-07-07 09:36:11,665 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:36:18,000 [ERROR] Item out of stock.
+2023-07-07 09:36:18,005 [ERROR] Item out of stock.
+2023-07-07 09:36:18,005 [INFO] Taking screenshot
+2023-07-07 09:36:18,747 [INFO] Price: None
+2023-07-07 09:36:18,747 [INFO] Shipment: None
+2023-07-07 09:36:24,881 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:36:29,355 [INFO] Requesting amount: 17
+2023-07-07 09:36:36,747 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:36:43,814 [ERROR] Item out of stock.
+2023-07-07 09:36:43,819 [ERROR] Item out of stock.
+2023-07-07 09:36:43,820 [INFO] Taking screenshot
+2023-07-07 09:36:44,563 [INFO] Price: None
+2023-07-07 09:36:44,563 [INFO] Shipment: None
+2023-07-07 09:36:51,152 [INFO] Requesting URL: https://www.seton.com.br/sinalizador-a-led-inteligente-com-trava-anti-furto-monolight.html
+2023-07-07 09:36:55,865 [INFO] Requesting amount: 17
+2023-07-07 09:37:02,553 [INFO] Error element 'out of stock' found. Breaking the loop.
+2023-07-07 09:37:08,805 [ERROR] Item out of stock.
+2023-07-07 09:37:08,810 [ERROR] Item out of stock.
+2023-07-07 09:37:08,810 [INFO] Taking screenshot
+2023-07-07 09:37:09,551 [INFO] Price: None
+2023-07-07 09:37:09,551 [INFO] Shipment: None
